@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com https://www.woltlab.com/XSD/5.4/language.xsd" languagecode="es">
+	<import>
+		<category name="wcf.acp.option">
+			<item name="wcf.acp.option.category.customcopyright.settings"><![CDATA[Copyright personalizado]]></item>
+			<item name="wcf.acp.option.customcopyright_text"><![CDATA[Texto del copyright]]></item>
+			<item name="wcf.acp.option.customcopyright_html"><![CDATA[Activar código HTML en el copyright]]></item>
+			<item name="wcf.acp.option.customcopyright_enable"><![CDATA[Activar copyright en el pie de página]]></item>
+		</category>
+	</import>
+</language>
